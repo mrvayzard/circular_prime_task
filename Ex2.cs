@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-class Ex1
+class Ex2
 {
     static List<int> FindCircularPrimeNumbers(int limit)    //finding circular prime numbers
     {
